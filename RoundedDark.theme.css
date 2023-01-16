@@ -12,7 +12,7 @@
 /* Uncomment a plugin Import URL if you use a plugin that's listed here */
 
 /* Channel Tabs: */
-/*@import url('https://adaelynxiv.github.io/RoundedDark/src/plugins/channeltabs.css');*/
+@import url('https://adaelynxiv.github.io/RoundedDark/src/plugins/channeltabs.css');
 
 /* Customizable Variables */
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
